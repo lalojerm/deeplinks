@@ -5,10 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.testdeeplinks",
-      "sha256_cert_fingerprints": [
-        "28:DA:80:3E:6D:21:EC:54:6B:21:3B:A7:C3:B0:57:4A:E4:AE:8C:D3:6C:E8:52:DB:E6:10:5F:6C:02:A6:25:63"
-      ]
+      "package_name": "com.example.testdeeplinks"
     }
   }
 ]
