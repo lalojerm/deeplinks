@@ -5,7 +5,10 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.testdeeplinks"
+      "package_name": "com.example.testdeeplinks",
+      "sha256_cert_fingerprints": [
+        ""
+      ]
     }
   }
 ]
