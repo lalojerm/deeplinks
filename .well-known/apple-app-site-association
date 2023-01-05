@@ -3,8 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "IOS_TEAM_ID.tech.bam.ios.debug",
-"paths": ["*"]
+        "appID": "8V9W4P4T9L.MasterApp-TigoMoney2.0-Mobile",
+        "paths": ["hn/*"]
       }
     ]
   }
