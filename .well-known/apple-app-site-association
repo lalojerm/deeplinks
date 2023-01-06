@@ -10,6 +10,14 @@
         "appID": "jose.rodriguez@millicom.com.lalojerm.github.io",
         "paths": ["*"]
       },
+      {
+        "appID": "6VVFHSW82P.com.millicom.tigo.money.qa",
+        "paths": ["*"]
+      },
+      {
+        "appID": "8V9W4P4T9L.com.millicom.tigo.money.qa",
+        "paths": ["*"]
+      }
     ]
   }
 }
