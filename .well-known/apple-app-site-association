@@ -1,22 +1,37 @@
 {
   "applinks": {
-      "details": [
-           {
-             "appIDs": [ "8V9W4P4T9L.lalojerm.github.io", "jose.rodriguez@millicom.com.lalojerm.github.io","6VVFHSW82P.com.millicom.tigo.money.qa"],"6VVFHSW82P.lalojerm.github.io"]            
-             "components": [
-               {
-                  "/": "/*",
-                  "exclude": true,
-                  "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
-               }
-             ]
-           }
-       ]
-   },
-   "webcredentials": {
-      "apps": [ "8V9W4P4T9L.lalojerm.github.io", "jose.rodriguez@millicom.com.lalojerm.github.io","6VVFHSW82P.com.millicom.tigo.money.qa"],"6VVFHSW82P.lalojerm.github.io"] 
-   },
-    "appclips": {
-        "apps": [ "8V9W4P4T9L.lalojerm.github.io", "jose.rodriguez@millicom.com.lalojerm.github.io","6VVFHSW82P.com.millicom.tigo.money.qa"],"6VVFHSW82P.lalojerm.github.io"] 
-    }
+    "details": [
+      {
+        "appIDs": [
+          "8V9W4P4T9L.lalojerm.github.io",
+          "jose.rodriguez@millicom.com.lalojerm.github.io",
+          "6VVFHSW82P.com.millicom.tigo.money.qa",
+          "6VVFHSW82P.lalojerm.github.io"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "exclude": true,
+            "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "8V9W4P4T9L.lalojerm.github.io",
+      "jose.rodriguez@millicom.com.lalojerm.github.io",
+      "6VVFHSW82P.com.millicom.tigo.money.qa",
+      "6VVFHSW82P.lalojerm.github.io"
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "8V9W4P4T9L.lalojerm.github.io",
+      "jose.rodriguez@millicom.com.lalojerm.github.io",
+      "6VVFHSW82P.com.millicom.tigo.money.qa",
+      "6VVFHSW82P.lalojerm.github.io"
+    ]
+  }
 }
