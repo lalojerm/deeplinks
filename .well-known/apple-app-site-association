@@ -17,6 +17,10 @@
       {
         "appID": "8V9W4P4T9L.com.millicom.tigo.money.qa",
         "paths": ["*"]
+      },
+      {
+        "appID": "8V9W4P4T9L.lalojerm.github.io",
+        "paths": ["*"]
       }
     ]
   }
